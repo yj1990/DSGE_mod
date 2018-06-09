@@ -1,0 +1,7 @@
+ \begin{table}[!htbp]                                                                                                   
+   \centering                                                                                                           
+   \caption{Targeted Moments}                                                                                           
+ \begin{tabularx}{\textwidth}{r *{5}{Y}}                                                                                
+ \toprule                                                                                                               
+                    & $\sigma_Y$ & $\sigma_C/\sigma_Y$ & $\sigma_I/\sigma_Y$& $\widetilde{NX}/\widetilde{Y}$ \\         
+                    \cmidrule{2-5}                                                                                      

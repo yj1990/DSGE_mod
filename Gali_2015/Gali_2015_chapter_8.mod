@@ -315,4 +315,5 @@ headers=strvcat(' ',short_title);
 values=[sqrt([variance.y;variance.y_gap;variance.pi_h;variance.pi;variance.s;variance.d_er]);L];
 options_.noprint=0;
 dyntable(options_,'Table 8.1: Properties of simple policy rules',headers,labels,values,size(labels,2)+2,4,3)
+write_latex_original_model;
 
